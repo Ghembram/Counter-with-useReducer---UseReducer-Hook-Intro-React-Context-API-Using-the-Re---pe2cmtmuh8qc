@@ -1,4 +1,9 @@
 const counterReducer = (state,action) =>{
+  return {
+  type:"INC"
+  }
+  
+
 
 }
 
